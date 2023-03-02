@@ -8,10 +8,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 ### 配置
 如需要更改监听端口则用文本编辑器编辑 *runShell.bat*
 
-###使用
+### 使用
 双击*runShell.bat*，浏览器就可以访问此项目了
 
-###Linux部署
+### Linux部署
 参看教程：
 
 *在 Linux 上安装 .NET*
